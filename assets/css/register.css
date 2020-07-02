@@ -1,0 +1,11 @@
+span {
+  cursor: pointer;
+}
+
+.hasAccountText {
+  padding: 10px 0;
+}
+
+.hasAccountText span:hover {
+  color: dodgerblue;
+}
